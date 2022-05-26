@@ -489,7 +489,7 @@ export default function Home() {
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Crypto Devs Exchange!</h1>
+          <h1 className={styles.title}>Welcome to Excaliose DeFi Exchange!</h1>
           <div className={styles.description}>
             Exchange Ethereum &#60;&#62; Crypto Dev Tokens
           </div>
@@ -519,7 +519,7 @@ export default function Home() {
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; by Crypto Devs
+        Made by Excaliose
       </footer>
     </div>
   );
